@@ -1,6 +1,5 @@
 name: Lab 3 Create Artifact
 on:
-
 push:
   branches:
   - main
